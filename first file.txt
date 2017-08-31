@@ -1,2 +1,3 @@
 echo("Hello World!");
 echo("Greate to sea you!");
+echo("What a wonderful day");
