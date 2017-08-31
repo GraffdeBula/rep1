@@ -1,3 +1,0 @@
-$us_name="name";
-$us_sex="sir";
-define("DAY", "DAY");
