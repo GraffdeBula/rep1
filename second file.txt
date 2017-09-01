@@ -1,2 +1,1 @@
 echo ("Hello! Is it me, you are looking for?");
-echo ("i have a dreame... i watch the street...");
